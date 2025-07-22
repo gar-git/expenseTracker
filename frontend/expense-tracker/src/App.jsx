@@ -14,7 +14,7 @@ import Expense from "../src/pages/Dashboard/Expense";
 
 const App = () => {
     return (
-        <div className="text-3xl text-purple-600"> Hello Folks!
+        <div className="text-3xl text-purple-600"> 
 
         <Router>
             <Routes>
